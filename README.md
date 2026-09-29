@@ -19,7 +19,7 @@ else. Be smart about it.
 
 ## Inclusion rule
 
-A site qualifies if its free tier offers **unlimited conversations** — no
+For Example: A site qualifies if its free tier offers **unlimited conversations** — no
 message cap, no hard paywall mid-chat. Queue waits, ads, slower models, or
 reduced memory are acceptable limitations. A free tier that cuts you off
 after N messages does not qualify.
